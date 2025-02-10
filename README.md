@@ -1,6 +1,7 @@
 # Gestor de Descargas // Downloads Manager
 
 Este script organiza automáticamente los archivos descargados en carpetas según su tipo de archivo.
+
 This script automatically organizes downloaded files into folders based on their file type.
 
 ## Requisitos // Requirements
@@ -43,9 +44,10 @@ pip install -r requirements.txt
 Ejecuta el script [GestorDeDescargas.py](http://_vscodecontentref_/0) para organizar los archivos en la carpeta de descargas:
 ```sh
 python GestorDeDescargas.py
-
+```
 //
 
 Run the script [DownloadManager.py](http://_vscodecontentref_/0) to organize the files in the downloads folder:
 ```sh
 python DownloadManager.py
+```
