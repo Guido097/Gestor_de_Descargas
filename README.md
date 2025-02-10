@@ -29,7 +29,7 @@ This script automatically organizes downloaded files into folders based on their
 
 1. Clone this repository:
 ```sh
-git clone https://github.com/your-user/DownloadManager.git
+git clone https://github.com/your-user/GestorDeDescargas.git
 ```
 2. Navigate to the project directory:
 ```sh
@@ -47,7 +47,7 @@ python GestorDeDescargas.py
 ```
 //
 
-Run the script [DownloadManager.py](http://_vscodecontentref_/0) to organize the files in the downloads folder:
+Run the script [GestorDeDescargas.py](http://_vscodecontentref_/0) to organize the files in the downloads folder:
 ```sh
-python DownloadManager.py
+python GestorDeDescargas.py
 ```
