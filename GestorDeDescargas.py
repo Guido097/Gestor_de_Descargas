@@ -3,7 +3,7 @@ import shutil
 import time
 
 # Rutas
-DESCARGAS = os.path.expanduser("C:\\Users\\guido\\Downloads")
+DESCARGAS = os.path.expanduser(" ## Add downloads folder path ## ")
 CARPETAS = {
     "Imágenes": [".jpg", ".jpeg", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".gif", ".webp", ".tiff", ".tif", ".psd", ".raw", ".arw", ".cr2", ".nrw",
                     ".k25", ".bmp", ".dib", ".heif", ".heic", ".ind", ".indd", ".indt", ".jp2", ".j2k", ".jpf", ".jpf", ".jpx", ".jpm", ".mj2", ".svg", ".svgz", ".ai", ".eps", ".ico"],
